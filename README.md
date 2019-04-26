@@ -1,4 +1,4 @@
-# ESPM - IA :: 2019 : 1
+# ESPM :: Inteligência Artifical
 
 ## Experimentos das aulas
 
@@ -6,6 +6,9 @@
 
 - MultiLayer Perceptron (MLP) - Redes Neurais
   - Forescast [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/mlp/forecasting.ipynb)
+
+- PCA
+
 
 ## Mapa de organização das técnicas de ML
 
