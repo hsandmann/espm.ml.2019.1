@@ -10,8 +10,15 @@
   - [Illustrative Proof of Universal Approximation Theorem](https://hackernoon.com/illustrative-proof-of-universal-approximation-theorem-5845c02822f6)
   - Experiment of Forecasting  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/mlp/forecasting.ipynb)
 
-- PCA
+- Principal Component Analysis (PCA)
 
+- Bayesian Statistical Model
+
+- Deep Learning
+
+- Natural Language Processing (NLP)
+
+- Generative Adversarial Networks (GANs)
 
 ## Mapa de organização das técnicas
 
