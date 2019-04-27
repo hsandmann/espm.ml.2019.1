@@ -25,5 +25,5 @@
 ![Mapa](assets/img/ml_map.png)
 source: [https://tinyurl.com/y5juazs3](https://tinyurl.com/y5juazs3).
 
-
-1. [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+1. [Tutorial Python](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwix4Ybo_e7hAhXWLLkGHal6BysQFjAAegQIBRAC&url=https%3A%2F%2Fwww.tutorialspoint.com%2Fpython%2F&usg=AOvVaw2QBXg0qSlQEOe4IQcNFvbb)
+2. [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
