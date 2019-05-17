@@ -14,6 +14,7 @@
   - Face Recognition [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/faces/pca/face_recognition_opencv.ipynb)
 
 - Deep Learning
+  - [Image Classifier - Cats vs Dogs](https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8)
   - Face Recognition [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/faces/cnn/face_recognition_dlib.ipynb)
 
 - Natural Language Processing (NLP)
