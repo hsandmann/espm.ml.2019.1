@@ -10,7 +10,7 @@
   - [Illustrative Proof of Universal Approximation Theorem](https://hackernoon.com/illustrative-proof-of-universal-approximation-theorem-5845c02822f6)
   - Experiment of Forecasting  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/mlp/forecasting.ipynb)
 
-- Principal Component Analysis (PCA)
+- Principal Component Analysis (PCA + Boosting)
   - Face Recognition [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/faces/pca/face_recognition_opencv.ipynb)
 
 - Deep Learning
