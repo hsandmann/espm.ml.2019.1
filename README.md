@@ -11,11 +11,10 @@
   - Experiment of Forecasting  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/mlp/forecasting.ipynb)
 
 - Principal Component Analysis (PCA)
-  - Face Recognition [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/faces/face_recognition_opencv.ipynb)
-
-- Bayesian Statistical Model
+  - Face Recognition [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/faces/pca/face_recognition_opencv.ipynb)
 
 - Deep Learning
+  - Face Recognition [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/faces/cnn/face_recognition_dlib.ipynb)
 
 - Natural Language Processing (NLP)
 
