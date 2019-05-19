@@ -1,6 +1,12 @@
 # ESPM :: Inteligência Artifical : Machine Learning
 
-## Aulas
+## Agenda
+| Data       | Conteúdo |
+|------------|----------|
+| 2019.05.24 | Alterar o código de reconhecimento facial e explicar as diferenças entre a técnica usando PCA e Boosting contra a utilizando DeepLearning |
+| 2019.06.07 | **Final**: apresentar uma proposta de produto utilizando AI: qual a técnica ser utilizada, caraterísticas de entrada e saída da máquina de aprendizado, etc... |
+
+## Conteúdo
 
 - K-Nearest Neighbor (KNN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/knn/knn.ipynb)
 
