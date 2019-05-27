@@ -1,4 +1,4 @@
-# ESPM :: Inteligência Artifical : Machine Learning
+# ESPM :: Inteligência Artificial : Machine Learning
 
 ## Agenda
 <table>
