@@ -7,10 +7,6 @@
         <td>Conteúdo</td>
     </tr>
     <tr>
-        <td>24.05.2019q</td>
-        <td>Alterar o código de reconhecimento facial e explicar as diferenças entre a técnica usando PCA e Boosting contra a utilizando DeepLearning</td>
-    </tr>
-    <tr>
         <td>07.06.2019</td>
         <td><b>Final</b>: apresentar uma proposta de produto utilizando AI: qual a técnica ser utilizada, caraterísticas de entrada e saída da máquina de aprendizado, etc...</td>
     </tr>
