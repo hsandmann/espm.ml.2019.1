@@ -7,7 +7,7 @@
         <td>Conteúdo</td>
     </tr>
     <tr>
-        <td>24.05.2019</td>
+        <td>24.05.2019q</td>
         <td>Alterar o código de reconhecimento facial e explicar as diferenças entre a técnica usando PCA e Boosting contra a utilizando DeepLearning</td>
     </tr>
     <tr>
@@ -58,3 +58,5 @@ source: [https://tinyurl.com/y5juazs3](https://tinyurl.com/y5juazs3).
   * HUBEL DH. Single unit activity in lateral geniculate body and optic tract of unrestrained cats. J Physiol. 1960;150(1):91–104. doi:[10.1113/jphysiol.1960.sp006375](https://doi.org/10.1113/jphysiol.1960.sp006375) [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363149/pdf/jphysiol01288-0108.pdf)]
   * HUBEL DH, WIESEL TN. Receptive fields, binocular interaction and functional architecture in the cat's visual cortex. J Physiol. 1962;160(1):106–154. doi:[10.1113/jphysiol.1962.sp006837](https://doi.org/10.1113/jphysiol.1962.sp006837) [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1359523/pdf/jphysiol01247-0121.pdf)]
   * Hubel DH, Wiesel TN. Receptive fields and functional architecture of monkey striate cortex. J Physiol. 1968;195(1):215–243. doi:[10.1113/jphysiol.1968.sp008455](https://doi.org/10.1113/jphysiol.1968.sp008455) [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1557912/pdf/jphysiol01104-0228.pdf)]
+* Few-Shot Adversarial Learning of Realistic Neural Talking Head Models [[arXiv:1905.08233v1
+](https://arxiv.org/abs/1905.08233v1)] [[video](https://youtu.be/p1b5aiTrGzY)]
