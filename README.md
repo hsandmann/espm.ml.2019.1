@@ -32,6 +32,7 @@
 - Natural Language Processing (NLP)
 
 - Generative Adversarial Networks (GANs)
+  - [GAN Lab](https://poloclub.github.io/ganlab/)
   - [Catch me if you can: A simple english explanation of GANs or Dueling neural-nets](https://towardsdatascience.com/catch-me-if-you-can-a-simple-english-explanation-of-gans-or-dueling-neural-nets-319a273434db)
   - [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a)
   - [Face Generator - Generating Artificial Faces with Machine Learning](https://towardsdatascience.com/face-generator-generating-artificial-faces-with-machine-learning-9e8c3d6c1ead) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsandmann/espm.ml/blob/master/gan/FaceGeneratorDCGAN.ipynb)
