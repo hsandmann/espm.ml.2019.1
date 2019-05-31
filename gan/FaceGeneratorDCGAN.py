@@ -271,10 +271,13 @@ def get_batch(dataset):
     files = random.sample(dataset, BATCH_SIZE)
     batch = []
     for file in files:
-        if random.choice([True, False]):
-            batch.append(np.asarray(Image.open(file).transpose(Image.FLIP_LEFT_RIGHT)))
-        else:
-            batch.append(np.asarray(Image.open(file)))
+        try:
+            if random.choice([True, False]):
+                batch.append(np.asarray(Image.open(file).transpose(Image.FLIP_LEFT_RIGHT)))
+            else:
+                batch.append(np.asarray(Image.open(file)))
+        except FileNotFoundError as err:
+            print(err)
     batch = np.asarray(batch)
     normalized_batch = (batch / 127.5) - 1.0
     return normalized_batch, files
@@ -341,7 +344,7 @@ EPSILON = 0.00005
 SAMPLES_TO_SHOW = 5
 # %%
 # Data (https://www.kaggle.com/greg115/celebrities-100k)
-BASE_PATH = "../input/"
+BASE_PATH = "./input/"
 DATASET_LIST_PATH = BASE_PATH + "100k.txt"
 INPUT_DATA_DIR = BASE_PATH + "100k/100k/"
 OUTPUT_DIR = "./"
