@@ -27,7 +27,7 @@ for img_file in img_files:
     known_face_names.append(splitext(img_file)[0])
 
 # Get a reference to webcam #0 (the default one)
-video_capture = cv2.VideoCapture(0)
+video_capture = cv2.VideoCapture(1)
 
 # Initialize some variables
 face_locations = []
